@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.menu {
+  list-style-type: none;
+  margin: 0 auto;
+  text-align: center;
+  background-color: cornflowerblue;
+  border-radius: 4px;
+}
+
+.menu-item {
+  display: inline-block;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-decoration: none;
+}
